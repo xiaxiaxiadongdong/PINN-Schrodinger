@@ -2,7 +2,6 @@ __pycache__/
 *.py[cod]
 *.npz
 *.pt
-*.docx
 venv/
 .venv/
 .idea/

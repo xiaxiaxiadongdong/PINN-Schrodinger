@@ -21,6 +21,7 @@ $$V(x,t) = V_0 \cdot \text{sech}^2(x) \cdot [1 + \varepsilon \cdot \sin(\omega t
 | `pinn_run.py` | PINN 求解器：网络定义、自动微分、训练、预测 |
 | `traditional_solver.py` | 传统方法：Crank-Nicolson 有限差分 + Split-Step Fourier |
 | `visualization.py` | 可视化：波函数快照、热力图、隧穿分析、误差对比 |
+| `量子力学PINN实验报告.docx` | 完整实验报告 |
 
 ## 运行
 
